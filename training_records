@@ -1,0 +1,801 @@
+Epoch  10, step   60, time    98.23, loss 3.7410
+Train 0.1791, Val 0.1786, Test 0.1839
+Epoch  20, step   60, time   211.69, loss 3.7025
+Train 0.2087, Val 0.2129, Test 0.2144
+Epoch  30, step   60, time   327.99, loss 3.6764
+Train 0.2145, Val 0.2183, Test 0.2216
+Epoch  40, step   60, time   439.81, loss 3.6595
+Train 0.2248, Val 0.2260, Test 0.2281
+Epoch  50, step   60, time   552.00, loss 3.6470
+Train 0.2345, Val 0.2354, Test 0.2357
+Epoch  60, step   60, time   663.96, loss 3.6363
+Train 0.2414, Val 0.2390, Test 0.2434
+Epoch  70, step   60, time   769.56, loss 3.6247
+Train 0.2464, Val 0.2443, Test 0.2475
+Epoch  80, step   60, time   875.08, loss 3.5673
+Train 0.2999, Val 0.3007, Test 0.3041
+Epoch  90, step   60, time   980.39, loss 3.5550
+Train 0.3094, Val 0.3074, Test 0.3129
+Epoch 100, step   60, time  1085.80, loss 3.5476
+Train 0.3122, Val 0.3123, Test 0.3144
+Epoch 110, step   60, time  1191.27, loss 3.5142
+Train 0.3471, Val 0.3475, Test 0.3482
+Epoch 120, step   60, time  1296.75, loss 3.5013
+Train 0.3641, Val 0.3615, Test 0.3614
+Epoch 130, step   60, time  1401.96, loss 3.4946
+Train 0.3654, Val 0.3624, Test 0.3635
+Epoch 140, step   60, time  1507.43, loss 3.4906
+Train 0.3754, Val 0.3702, Test 0.3725
+Epoch 150, step   60, time  1612.75, loss 3.4578
+Train 0.4114, Val 0.4038, Test 0.4071
+Epoch 160, step   60, time  1718.15, loss 3.4505
+Train 0.4108, Val 0.4037, Test 0.4058
+Epoch 170, step   60, time  1823.41, loss 3.4459
+Train 0.4254, Val 0.4173, Test 0.4186
+Epoch 180, step   60, time  1928.84, loss 3.4230
+Train 0.4452, Val 0.4360, Test 0.4371
+Epoch 190, step   60, time  2034.36, loss 3.4122
+Train 0.4504, Val 0.4425, Test 0.4409
+Epoch 200, step   60, time  2139.41, loss 3.4057
+Train 0.4579, Val 0.4505, Test 0.4495
+Epoch 210, step   60, time  2244.45, loss 3.4029
+Train 0.4626, Val 0.4530, Test 0.4551
+Epoch 220, step   60, time  2349.94, loss 3.3793
+Train 0.4883, Val 0.4767, Test 0.4802
+Epoch 230, step   60, time  2455.23, loss 3.3467
+Train 0.5260, Val 0.5075, Test 0.5153
+Epoch 240, step   60, time  2561.56, loss 3.3314
+Train 0.5428, Val 0.5252, Test 0.5362
+Epoch 250, step   60, time  2666.77, loss 3.3231
+Train 0.5482, Val 0.5281, Test 0.5396
+Epoch 260, step   60, time  2772.23, loss 3.3139
+Train 0.5567, Val 0.5361, Test 0.5488
+Epoch 270, step   60, time  2877.40, loss 3.3081
+Train 0.5627, Val 0.5437, Test 0.5546
+Epoch 280, step   60, time  2982.77, loss 3.2916
+Train 0.5833, Val 0.5660, Test 0.5763
+Epoch 290, step   60, time  3088.25, loss 3.2861
+Train 0.5888, Val 0.5689, Test 0.5790
+Epoch 300, step   60, time  3193.64, loss 3.2820
+Train 0.5937, Val 0.5735, Test 0.5840
+Epoch 310, step   60, time  3298.98, loss 3.2783
+Train 0.5957, Val 0.5753, Test 0.5859
+Epoch 320, step   60, time  3404.40, loss 3.2759
+Train 0.6032, Val 0.5818, Test 0.5938
+Epoch 330, step   60, time  3509.62, loss 3.2699
+Train 0.6044, Val 0.5830, Test 0.5927
+Epoch 340, step   60, time  3615.13, loss 3.2292
+Train 0.6359, Val 0.6144, Test 0.6243
+Epoch 350, step   60, time  3720.49, loss 3.1944
+Train 0.6755, Val 0.6565, Test 0.6647
+Epoch 360, step   60, time  3825.92, loss 3.1890
+Train 0.6807, Val 0.6622, Test 0.6692
+Epoch 370, step   60, time  3931.26, loss 3.1853
+Train 0.6820, Val 0.6645, Test 0.6709
+Epoch 380, step   60, time  4036.68, loss 3.1746
+Train 0.6945, Val 0.6771, Test 0.6841
+Epoch 390, step   60, time  4142.03, loss 3.1494
+Train 0.7257, Val 0.7075, Test 0.7136
+Epoch 400, step   60, time  4247.31, loss 3.1356
+Train 0.7382, Val 0.7170, Test 0.7238
+Epoch 410, step   60, time  4353.64, loss 3.1292
+Train 0.7447, Val 0.7238, Test 0.7321
+Epoch 420, step   60, time  4459.03, loss 3.1244
+Train 0.7480, Val 0.7275, Test 0.7351
+Epoch 430, step   60, time  4564.34, loss 3.1135
+Train 0.7650, Val 0.7427, Test 0.7496
+Epoch 440, step   60, time  4669.61, loss 3.1058
+Train 0.7652, Val 0.7442, Test 0.7495
+Epoch 450, step   60, time  4775.00, loss 3.1029
+Train 0.7710, Val 0.7475, Test 0.7550
+Epoch 460, step   60, time  4880.39, loss 3.1015
+Train 0.7700, Val 0.7472, Test 0.7524
+Epoch 470, step   60, time  4985.74, loss 3.0994
+Train 0.7728, Val 0.7521, Test 0.7581
+Epoch 480, step   60, time  5092.09, loss 3.0841
+Train 0.7902, Val 0.7680, Test 0.7746
+Epoch 490, step   60, time  5197.28, loss 3.0784
+Train 0.7930, Val 0.7715, Test 0.7765
+Epoch 500, step   60, time  5303.22, loss 3.0650
+Train 0.8078, Val 0.7866, Test 0.7931
+Epoch 510, step   60, time  5408.67, loss 3.0609
+Train 0.8094, Val 0.7888, Test 0.7964
+Epoch 520, step   60, time  5514.26, loss 3.0597
+Train 0.8085, Val 0.7866, Test 0.7954
+Epoch 530, step   60, time  5621.06, loss 3.0585
+Train 0.8110, Val 0.7902, Test 0.7972
+Epoch 540, step   60, time  5726.84, loss 3.0574
+Train 0.8136, Val 0.7940, Test 0.8016
+Epoch 550, step   60, time  5832.21, loss 3.0449
+Train 0.8256, Val 0.8077, Test 0.8109
+Epoch 560, step   60, time  5937.65, loss 3.0383
+Train 0.8315, Val 0.8126, Test 0.8158
+Epoch 570, step   60, time  6042.89, loss 3.0367
+Train 0.8347, Val 0.8182, Test 0.8201
+Epoch 580, step   60, time  6149.08, loss 3.0343
+Train 0.8348, Val 0.8186, Test 0.8201
+Epoch 590, step   60, time  6254.23, loss 3.0330
+Train 0.8366, Val 0.8186, Test 0.8217
+Epoch 600, step   60, time  6359.60, loss 3.0322
+Train 0.8362, Val 0.8181, Test 0.8222
+Epoch 610, step   60, time  6465.18, loss 3.0307
+Train 0.8376, Val 0.8196, Test 0.8238
+Epoch 620, step   60, time  6570.67, loss 3.0187
+Train 0.8494, Val 0.8319, Test 0.8346
+Epoch 630, step   60, time  6676.53, loss 3.0169
+Train 0.8511, Val 0.8340, Test 0.8349
+Epoch 640, step   60, time  6782.16, loss 3.0153
+Train 0.8516, Val 0.8336, Test 0.8357
+Epoch 650, step   60, time  6887.77, loss 3.0064
+Train 0.8607, Val 0.8456, Test 0.8463
+Epoch 660, step   60, time  6993.27, loss 3.0051
+Train 0.8629, Val 0.8479, Test 0.8504
+Epoch 670, step   60, time  7098.59, loss 3.0040
+Train 0.8623, Val 0.8472, Test 0.8469
+Epoch 680, step   60, time  7203.88, loss 3.0025
+Train 0.8632, Val 0.8490, Test 0.8499
+Epoch 690, step   60, time  7309.29, loss 2.9942
+Train 0.8719, Val 0.8576, Test 0.8572
+Epoch 700, step   60, time  7416.87, loss 2.9933
+Train 0.8715, Val 0.8577, Test 0.8568
+Epoch 710, step   60, time  7522.47, loss 2.9919
+Train 0.8719, Val 0.8583, Test 0.8588
+Epoch 720, step   60, time  7627.91, loss 2.9917
+Train 0.8719, Val 0.8585, Test 0.8585
+Epoch 730, step   60, time  7733.10, loss 2.9615
+Train 0.9025, Val 0.8886, Test 0.8885
+Epoch 740, step   60, time  7838.68, loss 2.9597
+Train 0.9027, Val 0.8884, Test 0.8882
+Epoch 750, step   60, time  7945.44, loss 2.9589
+Train 0.9028, Val 0.8892, Test 0.8887
+Epoch 760, step   60, time  8050.77, loss 2.9584
+Train 0.9031, Val 0.8893, Test 0.8896
+Epoch 770, step   60, time  8156.53, loss 2.9576
+Train 0.9034, Val 0.8899, Test 0.8897
+Epoch 780, step   60, time  8262.33, loss 2.9558
+Train 0.9100, Val 0.8959, Test 0.8955
+Epoch 790, step   60, time  8369.50, loss 2.9459
+Train 0.9144, Val 0.9028, Test 0.9023
+Epoch 800, step   60, time  8475.13, loss 2.9449
+Train 0.9144, Val 0.9023, Test 0.9009
+Epoch 810, step   60, time  8580.95, loss 2.9442
+Train 0.9142, Val 0.9021, Test 0.9009
+Epoch 820, step   60, time  8686.50, loss 2.9422
+Train 0.9152, Val 0.9028, Test 0.9020
+Epoch 830, step   60, time  8792.02, loss 2.9369
+Train 0.9207, Val 0.9096, Test 0.9080
+Epoch 840, step   60, time  8897.47, loss 2.9355
+Train 0.9216, Val 0.9116, Test 0.9095
+Epoch 850, step   60, time  9002.94, loss 2.9341
+Train 0.9214, Val 0.9108, Test 0.9086
+Epoch 860, step   60, time  9108.34, loss 2.9207
+Train 0.9357, Val 0.9235, Test 0.9222
+Epoch 870, step   60, time  9214.44, loss 2.9194
+Train 0.9362, Val 0.9236, Test 0.9224
+Epoch 880, step   60, time  9319.94, loss 2.9182
+Train 0.9365, Val 0.9250, Test 0.9237
+Epoch 890, step   60, time  9425.29, loss 2.9176
+Train 0.9368, Val 0.9257, Test 0.9244
+Epoch 900, step   60, time  9530.75, loss 2.9172
+Train 0.9367, Val 0.9266, Test 0.9245
+Epoch 910, step   60, time  9637.27, loss 2.9170
+Train 0.9366, Val 0.9250, Test 0.9245
+Epoch 920, step   60, time  9743.03, loss 2.9156
+Train 0.9367, Val 0.9262, Test 0.9237
+Epoch 930, step   60, time  9848.89, loss 2.9146
+Train 0.9366, Val 0.9258, Test 0.9235
+Epoch 940, step   60, time  9954.27, loss 2.9144
+Train 0.9368, Val 0.9267, Test 0.9248
+Epoch 950, step   60, time 10059.86, loss 2.9137
+Train 0.9369, Val 0.9275, Test 0.9260
+Epoch 960, step   60, time 10165.42, loss 2.9131
+Train 0.9368, Val 0.9279, Test 0.9248
+Epoch 970, step   60, time 10270.83, loss 2.9064
+Train 0.9437, Val 0.9324, Test 0.9290
+Epoch 980, step   60, time 10376.19, loss 2.8963
+Train 0.9535, Val 0.9417, Test 0.9408
+Epoch 990, step   60, time 10481.52, loss 2.8950
+Train 0.9536, Val 0.9428, Test 0.9425
+Epoch 1000, step   60, time 10587.01, loss 2.8945
+Train 0.9537, Val 0.9449, Test 0.9422
+Epoch 1010, step   60, time 10692.52, loss 2.8937
+Train 0.9538, Val 0.9448, Test 0.9435
+Epoch 1020, step   60, time 10797.81, loss 2.8933
+Train 0.9535, Val 0.9441, Test 0.9425
+Epoch 1030, step   60, time 10903.51, loss 2.8930
+Train 0.9537, Val 0.9439, Test 0.9437
+Epoch 1040, step   60, time 11008.83, loss 2.8923
+Train 0.9537, Val 0.9442, Test 0.9446
+Epoch 1050, step   60, time 11114.60, loss 2.8917
+Train 0.9538, Val 0.9447, Test 0.9435
+Epoch 1060, step   60, time 11220.08, loss 2.8910
+Train 0.9537, Val 0.9456, Test 0.9435
+Epoch 1070, step   60, time 11325.93, loss 2.8908
+Train 0.9536, Val 0.9451, Test 0.9441
+Epoch 1080, step   60, time 11431.90, loss 2.8831
+Train 0.9611, Val 0.9503, Test 0.9508
+Epoch 1090, step   60, time 11538.01, loss 2.8822
+Train 0.9614, Val 0.9530, Test 0.9501
+Epoch 1100, step   60, time 11643.86, loss 2.8817
+Train 0.9613, Val 0.9526, Test 0.9512
+Epoch 1110, step   60, time 11749.36, loss 2.8810
+Train 0.9613, Val 0.9537, Test 0.9508
+Epoch 1120, step   60, time 11854.85, loss 2.8808
+Train 0.9614, Val 0.9523, Test 0.9507
+Epoch 1130, step   60, time 11960.35, loss 2.8805
+Train 0.9614, Val 0.9525, Test 0.9515
+Epoch 1140, step   60, time 12065.86, loss 2.8798
+Train 0.9614, Val 0.9532, Test 0.9501
+Epoch 1150, step   60, time 12171.25, loss 2.8794
+Train 0.9616, Val 0.9533, Test 0.9516
+Epoch 1160, step   60, time 12276.81, loss 2.8791
+Train 0.9614, Val 0.9532, Test 0.9502
+Epoch 1170, step   60, time 12382.52, loss 2.8779
+Train 0.9614, Val 0.9536, Test 0.9510
+Epoch 1180, step   60, time 12488.21, loss 2.8778
+Train 0.9615, Val 0.9534, Test 0.9518
+Epoch 1190, step   60, time 12593.78, loss 2.8773
+Train 0.9615, Val 0.9536, Test 0.9517
+Epoch 1200, step   60, time 12700.00, loss 2.8765
+Train 0.9617, Val 0.9541, Test 0.9526
+Epoch 1210, step   60, time 12805.56, loss 2.8763
+Train 0.9615, Val 0.9534, Test 0.9513
+Epoch 1220, step   60, time 12911.04, loss 2.8759
+Train 0.9615, Val 0.9540, Test 0.9522
+Epoch 1230, step   60, time 13016.55, loss 2.8753
+Train 0.9615, Val 0.9527, Test 0.9522
+Epoch 1240, step   60, time 13122.23, loss 2.8751
+Train 0.9615, Val 0.9530, Test 0.9512
+Epoch 1250, step   60, time 13227.88, loss 2.8744
+Train 0.9616, Val 0.9541, Test 0.9527
+Epoch 1260, step   60, time 13333.31, loss 2.8738
+Train 0.9616, Val 0.9532, Test 0.9524
+Epoch 1270, step   60, time 13438.97, loss 2.8735
+Train 0.9617, Val 0.9541, Test 0.9516
+Epoch 1280, step   60, time 13544.99, loss 2.8715
+Train 0.9640, Val 0.9531, Test 0.9508
+Epoch 1290, step   60, time 13651.21, loss 2.8676
+Train 0.9672, Val 0.9577, Test 0.9565
+Epoch 1300, step   60, time 13757.21, loss 2.8669
+Train 0.9672, Val 0.9595, Test 0.9572
+Epoch 1310, step   60, time 13863.11, loss 2.8616
+Train 0.9725, Val 0.9651, Test 0.9617
+Epoch 1320, step   60, time 13968.59, loss 2.8613
+Train 0.9724, Val 0.9648, Test 0.9625
+Epoch 1330, step   60, time 14074.37, loss 2.8607
+Train 0.9724, Val 0.9662, Test 0.9626
+Epoch 1340, step   60, time 14179.90, loss 2.8604
+Train 0.9725, Val 0.9664, Test 0.9632
+Epoch 1350, step   60, time 14285.51, loss 2.8597
+Train 0.9724, Val 0.9661, Test 0.9632
+Epoch 1360, step   60, time 14391.08, loss 2.8593
+Train 0.9723, Val 0.9658, Test 0.9626
+Epoch 1370, step   60, time 14497.24, loss 2.8592
+Train 0.9724, Val 0.9658, Test 0.9634
+Epoch 1380, step   60, time 14603.41, loss 2.8587
+Train 0.9721, Val 0.9663, Test 0.9628
+Epoch 1390, step   60, time 14709.80, loss 2.8584
+Train 0.9724, Val 0.9668, Test 0.9636
+Epoch 1400, step   60, time 14815.47, loss 2.8576
+Train 0.9725, Val 0.9664, Test 0.9631
+Epoch 1410, step   60, time 14921.53, loss 2.8575
+Train 0.9724, Val 0.9659, Test 0.9623
+Epoch 1420, step   60, time 15027.73, loss 2.8569
+Train 0.9725, Val 0.9668, Test 0.9633
+Epoch 1430, step   60, time 15133.27, loss 2.8569
+Train 0.9724, Val 0.9661, Test 0.9631
+Epoch 1440, step   60, time 15238.95, loss 2.8565
+Train 0.9725, Val 0.9664, Test 0.9625
+Epoch 1450, step   60, time 15344.51, loss 2.8560
+Train 0.9725, Val 0.9661, Test 0.9638
+Epoch 1460, step   60, time 15450.48, loss 2.8561
+Train 0.9723, Val 0.9670, Test 0.9635
+Epoch 1470, step   60, time 15552.83, loss 2.8555
+Train 0.9724, Val 0.9666, Test 0.9628
+Epoch 1480, step   60, time 15658.57, loss 2.8550
+Train 0.9725, Val 0.9666, Test 0.9633
+Epoch 1490, step   60, time 15764.00, loss 2.8544
+Train 0.9724, Val 0.9664, Test 0.9634
+Epoch 1500, step   60, time 15869.61, loss 2.8544
+Train 0.9725, Val 0.9661, Test 0.9628
+Epoch 1510, step   60, time 15975.36, loss 2.8539
+Train 0.9725, Val 0.9664, Test 0.9641
+Epoch 1520, step   60, time 16080.82, loss 2.8537
+Train 0.9726, Val 0.9660, Test 0.9631
+Epoch 1530, step   60, time 16186.87, loss 2.8532
+Train 0.9726, Val 0.9671, Test 0.9640
+Epoch 1540, step   60, time 16293.01, loss 2.8529
+Train 0.9726, Val 0.9665, Test 0.9641
+Epoch 1550, step   60, time 16398.91, loss 2.8526
+Train 0.9725, Val 0.9664, Test 0.9634
+Epoch 1560, step   60, time 16505.25, loss 2.8521
+Train 0.9726, Val 0.9661, Test 0.9636
+Epoch 1570, step   60, time 16611.43, loss 2.8521
+Train 0.9727, Val 0.9661, Test 0.9634
+Epoch 1580, step   60, time 16713.74, loss 2.8515
+Train 0.9726, Val 0.9661, Test 0.9636
+Epoch 1590, step   60, time 16819.42, loss 2.8512
+Train 0.9726, Val 0.9662, Test 0.9640
+Epoch 1600, step   60, time 16925.20, loss 2.8508
+Train 0.9726, Val 0.9666, Test 0.9635
+Epoch 1610, step   60, time 17030.89, loss 2.8508
+Train 0.9727, Val 0.9669, Test 0.9640
+Epoch 1620, step   60, time 17136.80, loss 2.8506
+Train 0.9727, Val 0.9672, Test 0.9633
+Epoch 1630, step   60, time 17242.43, loss 2.8501
+Train 0.9726, Val 0.9674, Test 0.9639
+Epoch 1640, step   60, time 17347.98, loss 2.8497
+Train 0.9727, Val 0.9671, Test 0.9643
+Epoch 1650, step   60, time 17453.58, loss 2.8496
+Train 0.9727, Val 0.9670, Test 0.9647
+Epoch 1660, step   60, time 17560.60, loss 2.8394
+Train 0.9829, Val 0.9762, Test 0.9753
+Epoch 1670, step   60, time 17666.08, loss 2.8387
+Train 0.9829, Val 0.9760, Test 0.9751
+Epoch 1680, step   60, time 17771.58, loss 2.8387
+Train 0.9831, Val 0.9769, Test 0.9749
+Epoch 1690, step   60, time 17873.88, loss 2.8382
+Train 0.9831, Val 0.9768, Test 0.9750
+Epoch 1700, step   60, time 17979.28, loss 2.8324
+Train 0.9888, Val 0.9823, Test 0.9803
+Epoch 1710, step   60, time 18084.87, loss 2.8321
+Train 0.9888, Val 0.9826, Test 0.9798
+Epoch 1720, step   60, time 18190.60, loss 2.8320
+Train 0.9888, Val 0.9827, Test 0.9808
+Epoch 1730, step   60, time 18296.13, loss 2.8318
+Train 0.9888, Val 0.9826, Test 0.9798
+Epoch 1740, step   60, time 18401.40, loss 2.8317
+Train 0.9888, Val 0.9823, Test 0.9795
+Epoch 1750, step   60, time 18506.96, loss 2.8309
+Train 0.9888, Val 0.9832, Test 0.9814
+Epoch 1760, step   60, time 18612.41, loss 2.8308
+Train 0.9888, Val 0.9824, Test 0.9806
+Epoch 1770, step   60, time 18717.91, loss 2.8305
+Train 0.9888, Val 0.9826, Test 0.9804
+Epoch 1780, step   60, time 18823.58, loss 2.8305
+Train 0.9888, Val 0.9828, Test 0.9806
+Epoch 1790, step   60, time 18929.19, loss 2.8303
+Train 0.9888, Val 0.9825, Test 0.9815
+Epoch 1800, step   60, time 19034.78, loss 2.8299
+Train 0.9887, Val 0.9836, Test 0.9805
+Epoch 1810, step   60, time 19140.10, loss 2.8297
+Train 0.9888, Val 0.9831, Test 0.9809
+Epoch 1820, step   60, time 19245.44, loss 2.8293
+Train 0.9888, Val 0.9843, Test 0.9805
+Epoch 1830, step   60, time 19350.75, loss 2.8294
+Train 0.9888, Val 0.9842, Test 0.9800
+Epoch 1840, step   60, time 19452.96, loss 2.8290
+Train 0.9888, Val 0.9830, Test 0.9806
+Epoch 1850, step   60, time 19558.26, loss 2.8286
+Train 0.9889, Val 0.9837, Test 0.9812
+Epoch 1860, step   60, time 19663.98, loss 2.8286
+Train 0.9889, Val 0.9838, Test 0.9813
+Epoch 1870, step   60, time 19769.63, loss 2.8282
+Train 0.9889, Val 0.9835, Test 0.9804
+Epoch 1880, step   60, time 19875.19, loss 2.8279
+Train 0.9888, Val 0.9835, Test 0.9811
+Epoch 1890, step   60, time 19980.89, loss 2.8277
+Train 0.9889, Val 0.9835, Test 0.9811
+Epoch 1900, step   60, time 20086.55, loss 2.8277
+Train 0.9889, Val 0.9837, Test 0.9811
+Epoch 1910, step   60, time 20192.05, loss 2.8273
+Train 0.9889, Val 0.9847, Test 0.9817
+Epoch 1920, step   60, time 20297.69, loss 2.8273
+Train 0.9889, Val 0.9831, Test 0.9811
+Epoch 1930, step   60, time 20402.93, loss 2.8270
+Train 0.9889, Val 0.9832, Test 0.9804
+Epoch 1940, step   60, time 20508.20, loss 2.8268
+Train 0.9888, Val 0.9839, Test 0.9811
+Epoch 1950, step   60, time 20613.57, loss 2.8267
+Train 0.9889, Val 0.9834, Test 0.9819
+Epoch 1960, step   60, time 20718.94, loss 2.8263
+Train 0.9889, Val 0.9841, Test 0.9807
+Epoch 1970, step   60, time 20824.46, loss 2.8262
+Train 0.9889, Val 0.9835, Test 0.9814
+Epoch 1980, step   60, time 20929.88, loss 2.8261
+Train 0.9889, Val 0.9831, Test 0.9809
+Epoch 1990, step   60, time 21035.32, loss 2.8259
+Train 0.9889, Val 0.9842, Test 0.9815
+Epoch 2000, step   60, time 21140.81, loss 2.8258
+Train 0.9889, Val 0.9834, Test 0.9812
+Epoch 2010, step   60, time 21246.15, loss 2.8256
+Train 0.9889, Val 0.9837, Test 0.9806
+Epoch 2020, step   60, time 21351.86, loss 2.8253
+Train 0.9889, Val 0.9839, Test 0.9816
+Epoch 2030, step   60, time 21457.25, loss 2.8252
+Train 0.9889, Val 0.9837, Test 0.9811
+Epoch 2040, step   60, time 21562.68, loss 2.8250
+Train 0.9889, Val 0.9844, Test 0.9815
+Epoch 2050, step   60, time 21668.22, loss 2.8250
+Train 0.9889, Val 0.9841, Test 0.9807
+Epoch 2060, step   60, time 21770.49, loss 2.8247
+Train 0.9889, Val 0.9835, Test 0.9818
+Epoch 2070, step   60, time 21875.95, loss 2.8245
+Train 0.9889, Val 0.9841, Test 0.9820
+Epoch 2080, step   60, time 21981.50, loss 2.8244
+Train 0.9890, Val 0.9837, Test 0.9808
+Epoch 2090, step   60, time 22087.06, loss 2.8243
+Train 0.9890, Val 0.9838, Test 0.9807
+Epoch 2100, step   60, time 22192.56, loss 2.8240
+Train 0.9890, Val 0.9840, Test 0.9817
+Epoch 2110, step   60, time 22297.93, loss 2.8238
+Train 0.9890, Val 0.9843, Test 0.9811
+Epoch 2120, step   60, time 22403.12, loss 2.8237
+Train 0.9890, Val 0.9845, Test 0.9814
+Epoch 2130, step   60, time 22508.87, loss 2.8236
+Train 0.9890, Val 0.9843, Test 0.9821
+Epoch 2140, step   60, time 22614.67, loss 2.8235
+Train 0.9890, Val 0.9845, Test 0.9825
+Epoch 2150, step   60, time 22720.26, loss 2.8235
+Train 0.9890, Val 0.9847, Test 0.9820
+Epoch 2160, step   60, time 22825.66, loss 2.8232
+Train 0.9890, Val 0.9846, Test 0.9813
+Epoch 2170, step   60, time 22931.00, loss 2.8232
+Train 0.9890, Val 0.9845, Test 0.9820
+Epoch 2180, step   60, time 23033.09, loss 2.8227
+Train 0.9894, Val 0.9840, Test 0.9823
+Epoch 2190, step   60, time 23138.65, loss 2.8177
+Train 0.9942, Val 0.9888, Test 0.9873
+Epoch 2200, step   60, time 23243.94, loss 2.8176
+Train 0.9942, Val 0.9878, Test 0.9879
+Epoch 2210, step   60, time 23349.43, loss 2.8172
+Train 0.9942, Val 0.9882, Test 0.9874
+Epoch 2220, step   60, time 23455.07, loss 2.8170
+Train 0.9942, Val 0.9884, Test 0.9882
+Epoch 2230, step   60, time 23560.65, loss 2.8170
+Train 0.9942, Val 0.9893, Test 0.9882
+Epoch 2240, step   60, time 23666.13, loss 2.8168
+Train 0.9942, Val 0.9885, Test 0.9879
+Epoch 2250, step   60, time 23771.70, loss 2.8169
+Train 0.9942, Val 0.9881, Test 0.9877
+Epoch 2260, step   60, time 23873.97, loss 2.8167
+Train 0.9942, Val 0.9891, Test 0.9878
+Epoch 2270, step   60, time 23979.51, loss 2.8167
+Train 0.9942, Val 0.9882, Test 0.9875
+Epoch 2280, step   60, time 24085.24, loss 2.8163
+Train 0.9942, Val 0.9881, Test 0.9881
+Epoch 2290, step   60, time 24190.86, loss 2.8162
+Train 0.9943, Val 0.9879, Test 0.9878
+Epoch 2300, step   60, time 24296.34, loss 2.8163
+Train 0.9943, Val 0.9880, Test 0.9881
+Epoch 2310, step   60, time 24398.64, loss 2.8163
+Train 0.9943, Val 0.9885, Test 0.9886
+Epoch 2320, step   60, time 24500.83, loss 2.8159
+Train 0.9943, Val 0.9881, Test 0.9884
+Epoch 2330, step   60, time 24606.37, loss 2.8159
+Train 0.9943, Val 0.9879, Test 0.9878
+Epoch 2340, step   60, time 24708.44, loss 2.8156
+Train 0.9943, Val 0.9886, Test 0.9874
+Epoch 2350, step   60, time 24814.56, loss 2.8156
+Train 0.9943, Val 0.9887, Test 0.9875
+Epoch 2360, step   60, time 24920.04, loss 2.8154
+Train 0.9943, Val 0.9885, Test 0.9884
+Epoch 2370, step   60, time 25025.53, loss 2.8157
+Train 0.9943, Val 0.9889, Test 0.9877
+Epoch 2380, step   60, time 25127.74, loss 2.8154
+Train 0.9943, Val 0.9885, Test 0.9877
+Epoch 2390, step   60, time 25233.26, loss 2.8153
+Train 0.9943, Val 0.9886, Test 0.9883
+Epoch 2400, step   60, time 25338.71, loss 2.8150
+Train 0.9943, Val 0.9893, Test 0.9882
+Epoch 2410, step   60, time 25444.19, loss 2.8149
+Train 0.9943, Val 0.9891, Test 0.9881
+Epoch 2420, step   60, time 25549.79, loss 2.8148
+Train 0.9943, Val 0.9897, Test 0.9882
+Epoch 2430, step   60, time 25655.25, loss 2.8149
+Train 0.9943, Val 0.9887, Test 0.9875
+Epoch 2440, step   60, time 25757.54, loss 2.8147
+Train 0.9943, Val 0.9885, Test 0.9881
+Epoch 2450, step   60, time 25863.17, loss 2.8147
+Train 0.9943, Val 0.9885, Test 0.9877
+Epoch 2460, step   60, time 25968.68, loss 2.8145
+Train 0.9943, Val 0.9881, Test 0.9874
+Epoch 2470, step   60, time 26073.99, loss 2.8146
+Train 0.9943, Val 0.9892, Test 0.9886
+Epoch 2480, step   60, time 26176.15, loss 2.8142
+Train 0.9944, Val 0.9887, Test 0.9880
+Epoch 2490, step   60, time 26282.36, loss 2.8143
+Train 0.9944, Val 0.9883, Test 0.9875
+Epoch 2500, step   60, time 26384.54, loss 2.8144
+Train 0.9944, Val 0.9880, Test 0.9878
+Epoch 2510, step   60, time 26486.80, loss 2.8140
+Train 0.9944, Val 0.9887, Test 0.9866
+Epoch 2520, step   60, time 26592.18, loss 2.8141
+Train 0.9944, Val 0.9887, Test 0.9876
+Epoch 2530, step   60, time 26694.31, loss 2.8138
+Train 0.9944, Val 0.9883, Test 0.9881
+Epoch 2540, step   60, time 26799.74, loss 2.8138
+Train 0.9944, Val 0.9885, Test 0.9874
+Epoch 2550, step   60, time 26905.19, loss 2.8138
+Train 0.9944, Val 0.9886, Test 0.9878
+Epoch 2560, step   60, time 27007.50, loss 2.8137
+Train 0.9944, Val 0.9883, Test 0.9878
+Epoch 2570, step   60, time 27112.74, loss 2.8136
+Train 0.9944, Val 0.9877, Test 0.9877
+Epoch 2580, step   60, time 27218.66, loss 2.8137
+Train 0.9944, Val 0.9887, Test 0.9880
+Epoch 2590, step   60, time 27320.98, loss 2.8135
+Train 0.9944, Val 0.9882, Test 0.9885
+Epoch 2600, step   60, time 27426.58, loss 2.8134
+Train 0.9944, Val 0.9886, Test 0.9882
+Epoch 2610, step   60, time 27532.05, loss 2.8133
+Train 0.9944, Val 0.9886, Test 0.9879
+Epoch 2620, step   60, time 27637.41, loss 2.8134
+Train 0.9944, Val 0.9892, Test 0.9889
+Epoch 2630, step   60, time 27739.59, loss 2.8133
+Train 0.9944, Val 0.9887, Test 0.9888
+Epoch 2640, step   60, time 27844.75, loss 2.8132
+Train 0.9944, Val 0.9885, Test 0.9891
+Epoch 2650, step   60, time 27950.51, loss 2.8131
+Train 0.9944, Val 0.9884, Test 0.9881
+Epoch 2660, step   60, time 28055.99, loss 2.8131
+Train 0.9944, Val 0.9882, Test 0.9874
+Epoch 2670, step   60, time 28162.96, loss 2.8129
+Train 0.9944, Val 0.9889, Test 0.9879
+Epoch 2680, step   60, time 28268.56, loss 2.8128
+Train 0.9944, Val 0.9897, Test 0.9887
+Epoch 2690, step   60, time 28374.42, loss 2.8129
+Train 0.9944, Val 0.9901, Test 0.9887
+Epoch 2700, step   60, time 28476.68, loss 2.8129
+Train 0.9944, Val 0.9887, Test 0.9880
+Epoch 2710, step   60, time 28578.91, loss 2.8127
+Train 0.9944, Val 0.9884, Test 0.9876
+Epoch 2720, step   60, time 28684.36, loss 2.8127
+Train 0.9944, Val 0.9893, Test 0.9882
+Epoch 2730, step   60, time 28786.58, loss 2.8126
+Train 0.9944, Val 0.9887, Test 0.9878
+Epoch 2740, step   60, time 28892.10, loss 2.8127
+Train 0.9944, Val 0.9888, Test 0.9868
+Epoch 2750, step   60, time 28994.40, loss 2.8126
+Train 0.9944, Val 0.9884, Test 0.9879
+Epoch 2760, step   60, time 29096.73, loss 2.8125
+Train 0.9944, Val 0.9895, Test 0.9881
+Epoch 2770, step   60, time 29202.28, loss 2.8123
+Train 0.9944, Val 0.9888, Test 0.9887
+Epoch 2780, step   60, time 29307.77, loss 2.8124
+Train 0.9944, Val 0.9890, Test 0.9882
+Epoch 2790, step   60, time 29409.95, loss 2.8122
+Train 0.9944, Val 0.9884, Test 0.9883
+Epoch 2800, step   60, time 29515.46, loss 2.8122
+Train 0.9944, Val 0.9897, Test 0.9881
+Epoch 2810, step   60, time 29621.12, loss 2.8122
+Train 0.9944, Val 0.9899, Test 0.9882
+Epoch 2820, step   60, time 29726.71, loss 2.8121
+Train 0.9944, Val 0.9896, Test 0.9889
+Epoch 2830, step   60, time 29832.35, loss 2.8121
+Train 0.9944, Val 0.9886, Test 0.9889
+Epoch 2840, step   60, time 29934.64, loss 2.8120
+Train 0.9944, Val 0.9900, Test 0.9889
+Epoch 2850, step   60, time 30040.13, loss 2.8121
+Train 0.9944, Val 0.9893, Test 0.9888
+Epoch 2860, step   60, time 30142.47, loss 2.8119
+Train 0.9944, Val 0.9881, Test 0.9884
+Epoch 2870, step   60, time 30248.20, loss 2.8119
+Train 0.9944, Val 0.9887, Test 0.9883
+Epoch 2880, step   60, time 30353.81, loss 2.8120
+Train 0.9944, Val 0.9895, Test 0.9887
+Epoch 2890, step   60, time 30456.07, loss 2.8118
+Train 0.9944, Val 0.9887, Test 0.9877
+Epoch 2900, step   60, time 30561.72, loss 2.8118
+Train 0.9944, Val 0.9887, Test 0.9887
+Epoch 2910, step   60, time 30667.28, loss 2.8119
+Train 0.9944, Val 0.9881, Test 0.9872
+Epoch 2920, step   60, time 30769.42, loss 2.8117
+Train 0.9944, Val 0.9896, Test 0.9887
+Epoch 2930, step   60, time 30874.44, loss 2.8117
+Train 0.9944, Val 0.9892, Test 0.9877
+Epoch 2940, step   60, time 30976.33, loss 2.8115
+Train 0.9944, Val 0.9896, Test 0.9887
+Epoch 2950, step   60, time 31081.48, loss 2.8116
+Train 0.9944, Val 0.9894, Test 0.9873
+Epoch 2960, step   60, time 31183.38, loss 2.8115
+Train 0.9944, Val 0.9890, Test 0.9889
+Epoch 2970, step   60, time 31285.24, loss 2.8115
+Train 0.9944, Val 0.9886, Test 0.9871
+Epoch 2980, step   60, time 31387.15, loss 2.8115
+Train 0.9944, Val 0.9886, Test 0.9877
+Epoch 2990, step   60, time 31489.00, loss 2.8114
+Train 0.9944, Val 0.9889, Test 0.9886
+Epoch 3000, step   60, time 31594.21, loss 2.8114
+Train 0.9944, Val 0.9886, Test 0.9884
+Epoch 3010, step   60, time 31696.06, loss 2.8115
+Train 0.9944, Val 0.9883, Test 0.9889
+Epoch 3020, step   60, time 31797.98, loss 2.8114
+Train 0.9944, Val 0.9883, Test 0.9880
+Epoch 3030, step   60, time 31899.78, loss 2.8112
+Train 0.9944, Val 0.9889, Test 0.9891
+Epoch 3040, step   60, time 32004.96, loss 2.8114
+Train 0.9944, Val 0.9887, Test 0.9886
+Epoch 3050, step   60, time 32106.90, loss 2.8114
+Train 0.9944, Val 0.9888, Test 0.9883
+Epoch 3060, step   60, time 32208.77, loss 2.8113
+Train 0.9944, Val 0.9892, Test 0.9872
+Epoch 3070, step   60, time 32310.68, loss 2.8112
+Train 0.9944, Val 0.9893, Test 0.9888
+Epoch 3080, step   60, time 32415.94, loss 2.8110
+Train 0.9944, Val 0.9895, Test 0.9879
+Epoch 3090, step   60, time 32521.09, loss 2.8111
+Train 0.9944, Val 0.9887, Test 0.9883
+Epoch 3100, step   60, time 32622.99, loss 2.8110
+Train 0.9944, Val 0.9898, Test 0.9885
+Epoch 3110, step   60, time 32728.16, loss 2.8112
+Train 0.9944, Val 0.9892, Test 0.9878
+Epoch 3120, step   60, time 32830.14, loss 2.8110
+Train 0.9944, Val 0.9891, Test 0.9879
+Epoch 3130, step   60, time 32932.11, loss 2.8111
+Train 0.9944, Val 0.9893, Test 0.9885
+Epoch 3140, step   60, time 33034.15, loss 2.8109
+Train 0.9944, Val 0.9893, Test 0.9877
+Epoch 3150, step   60, time 33139.28, loss 2.8110
+Train 0.9944, Val 0.9887, Test 0.9877
+Epoch 3160, step   60, time 33241.28, loss 2.8111
+Train 0.9944, Val 0.9893, Test 0.9874
+Epoch 3170, step   60, time 33343.32, loss 2.8109
+Train 0.9944, Val 0.9890, Test 0.9884
+Epoch 3180, step   60, time 33448.51, loss 2.8108
+Train 0.9944, Val 0.9894, Test 0.9888
+Epoch 3190, step   60, time 33553.69, loss 2.8108
+Train 0.9944, Val 0.9890, Test 0.9879
+Epoch 3200, step   60, time 33655.72, loss 2.8107
+Train 0.9944, Val 0.9894, Test 0.9885
+Epoch 3210, step   60, time 33760.75, loss 2.8108
+Train 0.9944, Val 0.9895, Test 0.9882
+Epoch 3220, step   60, time 33862.70, loss 2.8106
+Train 0.9944, Val 0.9900, Test 0.9888
+Epoch 3230, step   60, time 33967.96, loss 2.8107
+Train 0.9944, Val 0.9887, Test 0.9881
+Epoch 3240, step   60, time 34069.98, loss 2.8107
+Train 0.9944, Val 0.9891, Test 0.9889
+Epoch 3250, step   60, time 34171.98, loss 2.8106
+Train 0.9944, Val 0.9895, Test 0.9885
+Epoch 3260, step   60, time 34274.08, loss 2.8108
+Train 0.9944, Val 0.9890, Test 0.9887
+Epoch 3270, step   60, time 34376.03, loss 2.8106
+Train 0.9944, Val 0.9895, Test 0.9887
+Epoch 3280, step   60, time 34481.30, loss 2.8108
+Train 0.9944, Val 0.9890, Test 0.9888
+Epoch 3290, step   60, time 34583.25, loss 2.8106
+Train 0.9944, Val 0.9892, Test 0.9887
+Epoch 3300, step   60, time 34685.22, loss 2.8105
+Train 0.9944, Val 0.9899, Test 0.9887
+Epoch 3310, step   60, time 34790.35, loss 2.8106
+Train 0.9944, Val 0.9894, Test 0.9887
+Epoch 3320, step   60, time 34892.31, loss 2.8104
+Train 0.9944, Val 0.9898, Test 0.9885
+Epoch 3330, step   60, time 34997.54, loss 2.8104
+Train 0.9944, Val 0.9894, Test 0.9884
+Epoch 3340, step   60, time 35102.92, loss 2.8105
+Train 0.9944, Val 0.9900, Test 0.9889
+Epoch 3350, step   60, time 35205.03, loss 2.8054
+Train 0.9997, Val 0.9951, Test 0.9930
+Epoch 3360, step   60, time 35310.36, loss 2.8052
+Train 0.9997, Val 0.9956, Test 0.9931
+Epoch 3370, step   60, time 35415.70, loss 2.8052
+Train 0.9997, Val 0.9952, Test 0.9936
+Epoch 3380, step   60, time 35517.75, loss 2.8051
+Train 0.9997, Val 0.9951, Test 0.9940
+Epoch 3390, step   60, time 35623.05, loss 2.8052
+Train 0.9997, Val 0.9955, Test 0.9931
+Epoch 3400, step   60, time 35725.02, loss 2.8052
+Train 0.9997, Val 0.9955, Test 0.9934
+Epoch 3410, step   60, time 35826.97, loss 2.8053
+Train 0.9997, Val 0.9946, Test 0.9929
+Epoch 3420, step   60, time 35928.91, loss 2.8051
+Train 0.9997, Val 0.9946, Test 0.9927
+Epoch 3430, step   60, time 36034.27, loss 2.8052
+Train 0.9997, Val 0.9955, Test 0.9932
+Epoch 3440, step   60, time 36136.42, loss 2.8051
+Train 0.9997, Val 0.9954, Test 0.9935
+Epoch 3450, step   60, time 36241.65, loss 2.8051
+Train 0.9997, Val 0.9945, Test 0.9925
+Epoch 3460, step   60, time 36343.61, loss 2.8050
+Train 0.9997, Val 0.9953, Test 0.9932
+Epoch 3470, step   60, time 36448.89, loss 2.8051
+Train 0.9997, Val 0.9948, Test 0.9930
+Epoch 3480, step   60, time 36550.94, loss 2.8050
+Train 0.9997, Val 0.9952, Test 0.9930
+Epoch 3490, step   60, time 36656.21, loss 2.8051
+Train 0.9997, Val 0.9947, Test 0.9927
+Epoch 3500, step   60, time 36758.25, loss 2.8049
+Train 0.9997, Val 0.9953, Test 0.9934
+Epoch 3510, step   60, time 36863.35, loss 2.8050
+Train 0.9997, Val 0.9954, Test 0.9926
+Epoch 3520, step   60, time 36965.31, loss 2.8048
+Train 0.9997, Val 0.9956, Test 0.9935
+Epoch 3530, step   60, time 37070.58, loss 2.8049
+Train 0.9997, Val 0.9953, Test 0.9936
+Epoch 3540, step   60, time 37172.53, loss 2.8049
+Train 0.9997, Val 0.9961, Test 0.9943
+Epoch 3550, step   60, time 37274.56, loss 2.8049
+Train 0.9997, Val 0.9956, Test 0.9940
+Epoch 3560, step   60, time 37376.49, loss 2.8051
+Train 0.9997, Val 0.9960, Test 0.9937
+Epoch 3570, step   60, time 37478.40, loss 2.8051
+Train 0.9997, Val 0.9953, Test 0.9930
+Epoch 3580, step   60, time 37580.36, loss 2.8048
+Train 0.9997, Val 0.9953, Test 0.9933
+Epoch 3590, step   60, time 37685.44, loss 2.8047
+Train 0.9997, Val 0.9939, Test 0.9928
+Epoch 3600, step   60, time 37790.76, loss 2.8049
+Train 0.9997, Val 0.9945, Test 0.9930
+Epoch 3610, step   60, time 37892.71, loss 2.8047
+Train 0.9997, Val 0.9957, Test 0.9934
+Epoch 3620, step   60, time 37994.64, loss 2.8048
+Train 0.9997, Val 0.9949, Test 0.9926
+Epoch 3630, step   60, time 38096.63, loss 2.8047
+Train 0.9997, Val 0.9954, Test 0.9939
+Epoch 3640, step   60, time 38202.26, loss 2.8049
+Train 0.9997, Val 0.9950, Test 0.9933
+Epoch 3650, step   60, time 38304.19, loss 2.8046
+Train 0.9997, Val 0.9958, Test 0.9942
+Epoch 3660, step   60, time 38409.08, loss 2.8049
+Train 0.9997, Val 0.9949, Test 0.9943
+Epoch 3670, step   60, time 38510.76, loss 2.8047
+Train 0.9996, Val 0.9960, Test 0.9936
+Epoch 3680, step   60, time 38612.28, loss 2.8048
+Train 0.9997, Val 0.9943, Test 0.9930
+Epoch 3690, step   60, time 38713.63, loss 2.8047
+Train 0.9997, Val 0.9956, Test 0.9941
+Epoch 3700, step   60, time 38814.94, loss 2.8047
+Train 0.9997, Val 0.9953, Test 0.9938
+Epoch 3710, step   60, time 38916.17, loss 2.8046
+Train 0.9997, Val 0.9953, Test 0.9935
+Epoch 3720, step   60, time 39020.52, loss 2.8045
+Train 0.9997, Val 0.9953, Test 0.9930
+Epoch 3730, step   60, time 39124.76, loss 2.8047
+Train 0.9997, Val 0.9948, Test 0.9940
+Epoch 3740, step   60, time 39225.96, loss 2.8046
+Train 0.9997, Val 0.9949, Test 0.9937
+Epoch 3750, step   60, time 39326.99, loss 2.8046
+Train 0.9997, Val 0.9958, Test 0.9941
+Epoch 3760, step   60, time 39428.23, loss 2.8045
+Train 0.9997, Val 0.9953, Test 0.9938
+Epoch 3770, step   60, time 39529.30, loss 2.8044
+Train 0.9997, Val 0.9958, Test 0.9936
+Epoch 3780, step   60, time 39633.40, loss 2.8045
+Train 0.9997, Val 0.9953, Test 0.9938
+Epoch 3790, step   60, time 39734.48, loss 2.8045
+Train 0.9997, Val 0.9953, Test 0.9937
+Epoch 3800, step   60, time 39835.61, loss 2.8045
+Train 0.9997, Val 0.9951, Test 0.9943
+Epoch 3810, step   60, time 39936.62, loss 2.8045
+Train 0.9997, Val 0.9957, Test 0.9938
+Epoch 3820, step   60, time 40037.75, loss 2.8045
+Train 0.9997, Val 0.9955, Test 0.9940
+Epoch 3830, step   60, time 40138.86, loss 2.8045
+Train 0.9997, Val 0.9955, Test 0.9940
+Epoch 3840, step   60, time 40240.02, loss 2.8044
+Train 0.9997, Val 0.9958, Test 0.9940
+Epoch 3850, step   60, time 40344.26, loss 2.8045
+Train 0.9997, Val 0.9957, Test 0.9940
+Epoch 3860, step   60, time 40445.36, loss 2.8045
+Train 0.9997, Val 0.9947, Test 0.9939
+Epoch 3870, step   60, time 40546.46, loss 2.8044
+Train 0.9997, Val 0.9952, Test 0.9944
+Epoch 3880, step   60, time 40647.62, loss 2.8043
+Train 0.9997, Val 0.9956, Test 0.9946
+Epoch 3890, step   60, time 40751.93, loss 2.8044
+Train 0.9997, Val 0.9962, Test 0.9945
+Epoch 3900, step   60, time 40853.07, loss 2.8044
+Train 0.9997, Val 0.9948, Test 0.9937
+Epoch 3910, step   60, time 40954.17, loss 2.8043
+Train 0.9997, Val 0.9949, Test 0.9940
+Epoch 3920, step   60, time 41058.40, loss 2.8044
+Train 0.9997, Val 0.9959, Test 0.9939
+Epoch 3930, step   60, time 41159.55, loss 2.8043
+Train 0.9997, Val 0.9959, Test 0.9934
+Epoch 3940, step   60, time 41260.63, loss 2.8042
+Train 0.9997, Val 0.9959, Test 0.9946
+Epoch 3950, step   60, time 41364.94, loss 2.8043
+Train 0.9997, Val 0.9960, Test 0.9940
+Epoch 3960, step   60, time 41466.07, loss 2.8044
+Train 0.9997, Val 0.9948, Test 0.9938
+Epoch 3970, step   60, time 41567.14, loss 2.8042
+Train 0.9997, Val 0.9956, Test 0.9940
+Epoch 3980, step   60, time 41668.12, loss 2.8043
+Train 0.9997, Val 0.9955, Test 0.9941
+Epoch 3990, step   60, time 41769.32, loss 2.8044
+Train 0.9997, Val 0.9950, Test 0.9934
+Epoch 4000, step   60, time 41870.50, loss 2.8043
+Train 0.9997, Val 0.9951, Test 0.9941
+
